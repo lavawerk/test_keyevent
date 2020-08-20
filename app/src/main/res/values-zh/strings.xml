@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_press_a_button">请按一下按钮！\n如果正确实现了按钮，则显示相关的键码</string>
+</resources>
